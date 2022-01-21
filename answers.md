@@ -7,3 +7,4 @@ Untracked files:
   (use "git add <file>..." to include in what will be committed)
 	answers.md
 
+README.md in the terminal did not have what i put into in on github. 
